@@ -1,6 +1,6 @@
 # blog
 for blog writing
-this is a a branch text
+this is a brnch text
 make some changes
 and another changes
 the third changes
